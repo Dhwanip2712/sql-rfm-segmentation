@@ -13,9 +13,9 @@ It's a good example of picking the right tool for a problem rather than the most
 
 ## What I found
 
-- The **top 20% of customers generate about 75% of total revenue** — closely matching the classic 80/20 (Pareto) pattern
-- **Champions** make up just 25.7% of the customer base but drive **66.4%** of total revenue
-- **Lost customers** are the single largest group by headcount (24.8%) but contribute only **5.0%** of revenue
+- The **top 20% of customers generate roughly 68-70% of total revenue** — a strong version of the classic 80/20 (Pareto) pattern
+- **Champions** make up about **22%** of the customer base but drive **over half** of total revenue
+- **Lost customers** are the single largest group by headcount (roughly 22-25%) but contribute only **4-5%** of revenue
 
 ## A data quality catch along the way
 
